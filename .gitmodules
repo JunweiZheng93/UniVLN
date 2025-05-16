@@ -1,0 +1,9 @@
+[submodule "OpebFMNav"]
+	path = OpebFMNav
+	url = https://github.com/yxKryptonite/OpenFMNav.git
+[submodule "SG-Nav"]
+	path = SG-Nav
+	url = https://github.com/bagh2178/SG-Nav.git
+[submodule "UniGoal"]
+	path = UniGoal
+	url = https://github.com/bagh2178/UniGoal.git
