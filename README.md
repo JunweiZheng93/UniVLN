@@ -1,7 +1,5 @@
 # UniVLN: Universal Vision-Language Navigation
 
-The project Homepage can be checked: [here](https://junweizheng93.github.io/publications/UniVLN/UniVLN.html)
-
 ## 📚 Data
 
 The necessary data can be downloaded from [HuggingFace](https://huggingface.co/datasets/JunweiZheng/UniVLN)
